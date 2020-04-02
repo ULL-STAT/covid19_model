@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ULL-STAT/covid19_model/master?filepath=Predictive_model_Covid19.ipynb) [![DOI](https://zenodo.org/badge/252273409.svg)](https://zenodo.org/badge/latestdoi/252273409)
 
 Jupyter R notebook for prediction modelling of Covid-19 data
-======================================================
+============================================================
 Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemáticas](http://matematicas.uclm.es/cemat/es/presentacion/)
 
 
@@ -9,8 +9,7 @@ Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemá
 
 Browse the notebooks on GitHub or click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ULL-STAT/covid19_model/master?filepath=Predictive_model_Covid19.ipynb). It will launch a "Binder" application using the notebook in this repository.
 
-For help or support with this software, please
-[file an issue on GitHub](https://github.com/ULL-STAT/covid19_model/issues). Thank you!
+For help or support with this software, please [file an issue on GitHub](https://github.com/ULL-STAT/covid19_model/issues). Thank you!
 
 ## Citation information
 
