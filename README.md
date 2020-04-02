@@ -20,7 +20,7 @@ Carlos J. Pérez-González, Arturo Fernández Rodríguez and Roberto Dorta Guerr
 
   author       = {Carlos J. Pérez-González,  <br>
 				  Arturo Fernández Rodríguez and <br>				  
-				  Roberto Dorta Guerra}, <br>		 		  
+				  Roberto Dorta Guerra}, 		 		  
   title        = {ULL-STAT/covid19_model v1.0.1},  <br> 
   month        = mar,  <br>
   year         = 2020,  <br>
