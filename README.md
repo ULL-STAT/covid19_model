@@ -17,14 +17,24 @@ For help or support with this software, please
 Carlos J. Pérez-González, Arturo Fernández Rodríguez and Roberto Dorta Guerra. (2020, April 2). ULL-STAT/covid19_model: First version of Covid19-Prediction outbreak notebook (Version v1.0.1). Zenodo. http://doi.org/10.5281/zenodo.3737192
 
 @software{makecite,
+
   author       = {Carlos J. Pérez-González,
+  
 				  Arturo Fernández Rodríguez and
+				  
 				  Roberto Dorta Guerra},
+				  
   title        = {ULL-STAT/covid19_model v1.0.1},
+  
   month        = mar,
+  
   year         = 2020,
+  
   publisher    = {Zenodo},
+  
   version      = {v1.0.1},
+  
   doi          = {10.5281/zenodo.3737192},
+  
   url          = {http://doi.org/10.5281/zenodo.3737192}
 }
