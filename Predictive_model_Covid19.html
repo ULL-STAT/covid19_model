@@ -4,7 +4,7 @@
 
 <title>Predictive_model_Covid19</title>
 
-<script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Z-NcSKAepn6s62KalAZdk-9tnUFppFH9K3YSzImH94IdAu1PNw04OdEDMbZzttmgAGxTd_qHMuD9avvlzjP5S75FF9CaDD52eWbtzr7ER7h5iFmhEG9nnieBjoIwseHZKHdDX27KEXpw5T1yWml0QQ" charset="UTF-8"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=9jvrm8QcQXwUF00InsrVqvuim6PqD1UtW4DPDfi1xKG8n95ew9trjXrZWG0ZG9J7ZZT0mWap8FJIHDXtzwNED91uk4jcqY690PiRwhlbRt2Ex_M4Uffks7LeeesbfM-35nkcE2myWL6OEhuYjiRBFA" charset="UTF-8"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 
@@ -16371,14 +16371,6 @@ height=720
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We can apply the same methodology to predicting the number of hospitalized patients as well as the recovered pepole.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
 <p><a id='hospitalized'></a></p>
 <h3 id="4.3-Predicting-the-hospitalized-patients">4.3 Predicting the hospitalized patients<a class="anchor-link" href="#4.3-Predicting-the-hospitalized-patients">&#182;</a></h3>
 </div>
@@ -16387,14 +16379,14 @@ height=720
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We can apply the same methodology to predicting the number of hospitalized patients (or the recovered pepole). We illustrate this modelling in the following</p>
+<p>The same methodology can be applied to predict the number of hospitalized patients (or the recovered people). We illustrate this modelling in the following</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-r"><pre><span></span><span class="n">covid_can</span><span class="o">&lt;-</span><span class="nf">filter_ccaa_data</span><span class="p">(</span><span class="n">covid_full_data</span><span class="p">,</span><span class="s">&quot;Canarias&quot;</span><span class="p">)</span>
@@ -16417,40 +16409,11 @@ height=720
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>Warning message in (tquan * sqrt(varVal + sumObjRV)) * c(-1, 1):
-“Recycling array of length 1 in array-vector arithmetic is deprecated.
-  Use c() or as.vector() instead.
-”
-Warning message in (tquan * sqrt(varVal + sumObjRV)) * c(-1, 1):
-“Recycling array of length 1 in array-vector arithmetic is deprecated.
-  Use c() or as.vector() instead.
-”
-Warning message in (tquan * sqrt(varVal + sumObjRV)) * c(-1, 1):
-“Recycling array of length 1 in array-vector arithmetic is deprecated.
-  Use c() or as.vector() instead.
-”
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Now, we can plot the observed and prediction data in similar way to the infected cases</p>
+<p>A plot for the observed and prediction data is provided in a similar way to the infected cases.</p>
 
 </div>
 </div>
