@@ -18,23 +18,14 @@ Carlos J. Pérez-González, Arturo Fernández Rodríguez and Roberto Dorta Guerr
 
 @software{makecite,
 
-  author       = {Carlos J. Pérez-González,
-  
-				  Arturo Fernández Rodríguez and
-				  
-				  Roberto Dorta Guerra},
-				  
-  title        = {ULL-STAT/covid19_model v1.0.1},
-  
-  month        = mar,
-  
-  year         = 2020,
-  
-  publisher    = {Zenodo},
-  
-  version      = {v1.0.1},
-  
-  doi          = {10.5281/zenodo.3737192},
-  
+  author       = {Carlos J. Pérez-González,  <br>
+				  Arturo Fernández Rodríguez and <br>				  
+				  Roberto Dorta Guerra}, <br>		 		  
+  title        = {ULL-STAT/covid19_model v1.0.1},  <br> 
+  month        = mar,  <br>
+  year         = 2020,  <br>
+  publisher    = {Zenodo},  <br>
+  version      = {v1.0.1},  <br>
+  doi          = {10.5281/zenodo.3737192},  <br>
   url          = {http://doi.org/10.5281/zenodo.3737192}
 }
