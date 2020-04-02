@@ -4,7 +4,7 @@
 
 <title>Predictive_model_Covid19</title>
 
-<script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=DpBBwX9a4WSOqSj55tkCa0jgmsaIjOIzGiy8sN30lYyKrsQD3OByiApy2Ftjyhe4ztxVoxe7aeoytkQdLvaiUKWACV6asYjqKAGbqPxzCW3Tsemlblnlr-z-bpVUA6Cd1S1p6D6_lWIWnChZjothIQ" charset="UTF-8"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=78kC-WLG2kgAZFX00aWJSPrFr6mWM4qsLibMLtxiZmW5Emr_irvo2oUBp6dytsrgIlmAQpC7-gQsWyPZNgc0T5C1Je8wMaCw048g4bMsN05Tp3PKbMdCcU5-4aQmEDO7RHP2Q0iXc3ZN6VYKG9Oylw" charset="UTF-8"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 
@@ -16397,8 +16397,8 @@ height=720
 <span class="n">data.COVDAT</span><span class="o">&lt;-</span><span class="nf">data.frame</span><span class="p">(</span><span class="n">date</span><span class="o">=</span><span class="n">covid_can</span><span class="o">$</span><span class="n">date</span><span class="p">,</span>
                         <span class="n">t</span><span class="o">=</span><span class="nf">seq_along</span><span class="p">(</span><span class="n">covid_can</span><span class="o">$</span><span class="n">var</span><span class="p">),</span>
                         <span class="n">y</span><span class="o">=</span><span class="n">covid_can</span><span class="o">$</span><span class="n">var</span><span class="p">)</span>
-<span class="n">data.COVDAT</span><span class="o">$</span><span class="n">pred</span><span class="o">&lt;-</span><span class="nf">predict</span><span class="p">(</span><span class="n">model.COVDAT</span><span class="p">)</span>
 <span class="n">model.COVDAT</span> <span class="o">&lt;-</span> <span class="nf">drm</span><span class="p">(</span><span class="n">y</span> <span class="o">~</span> <span class="n">t</span><span class="p">,</span> <span class="n">data</span>  <span class="o">=</span> <span class="n">data.COVDAT</span><span class="p">,</span> <span class="n">fct</span><span class="o">=</span><span class="nf">LL.4</span><span class="p">())</span>
+<span class="n">data.COVDAT</span><span class="o">$</span><span class="n">pred</span><span class="o">&lt;-</span><span class="nf">predict</span><span class="p">(</span><span class="n">model.COVDAT</span><span class="p">)</span>
 <span class="n">predict.COVDAT</span><span class="o">&lt;-</span><span class="nf">pred.COVDAT</span><span class="p">(</span><span class="n">model.COVDAT</span><span class="p">,</span><span class="n">data.COVDAT</span><span class="p">,</span><span class="m">1</span><span class="o">:</span><span class="m">3</span><span class="p">)</span>
 <span class="nf">colnames</span><span class="p">(</span><span class="n">predict.COVDAT</span><span class="p">)[</span><span class="m">4</span><span class="o">:</span><span class="m">6</span><span class="p">]</span><span class="o">&lt;-</span><span class="nf">c</span><span class="p">(</span><span class="s">&quot;pred&quot;</span><span class="p">,</span><span class="s">&quot;lwr&quot;</span><span class="p">,</span><span class="s">&quot;upr&quot;</span><span class="p">)</span>
 <span class="n">data.COVDAT</span><span class="p">[,</span><span class="nf">c</span><span class="p">(</span><span class="s">&quot;lwr&quot;</span><span class="p">,</span> <span class="s">&quot;upr&quot;</span><span class="p">)]</span><span class="o">&lt;-</span><span class="kc">NA</span>
