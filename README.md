@@ -23,7 +23,7 @@ Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemá
     <td><img src="figs/social_distance.gif" width="150" height="120"></img></td>
   </tr>
 </table>
-Featured Lottie Animation by Vijay Verma, Dmytro Rohoznyi and Chris Gannon
+
 
 ## Execution quickstart
 
@@ -47,3 +47,5 @@ Carlos J. Pérez-González, Arturo Fernández Rodríguez and Roberto Dorta Guerr
   doi          = {10.5281/zenodo.3737192},  <br>
   url          = {http://doi.org/10.5281/zenodo.3737192}
 }
+
+Featured Lottie Animation by Vijay Verma, Dmytro Rohoznyi and Chris Gannon
