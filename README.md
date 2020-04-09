@@ -14,7 +14,7 @@ Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemá
   </tr>
   <tr>
     <td></td>
-    <td><img src="lottie_files/attack_covid19.gif" width="420" height="320" ></img></td>
+    <td><img src="lottie_files/attack_covid19.gif" width="250" height="220" ></img></td>
     <td></td>
   </tr>
   <tr>
