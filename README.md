@@ -6,21 +6,21 @@ Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemá
 
 <table style="width:50%;"">
   <tr>    
-    <td style="width:15%;"><img src="lottie_files/wash_hands.gif" width="150" height="120" style="pointer-events: none;  cursor: default;"></img>
+    <td style="width:15%;"><img src="figs/wash_hands.gif" width="150" height="120" style="pointer-events: none;  cursor: default;"></img>
     </td>
     <td style="width:15%;"></td>
-    <td style="width:15%;"><img src="lottie_files/sanitizer.gif" width="150" height="120"></img>
+    <td style="width:15%;"><img src="figs/sanitizer.gif" width="150" height="120"></img>
     </td>
   </tr>
   <tr>
     <td></td>
-    <td><img src="lottie_files/attack_covid19.gif" width="250" height="220" ></img></td>
+    <td><img src="figs/attack_covid19.gif" width="250" height="220" ></img></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="lottie_files/wear_mask.gif" width="150" height="120"></img></td>
+    <td><img src="figs/wear_mask.gif" width="150" height="120"></img></td>
     <td></td>
-    <td><img src="lottie_files/social_distance.gif" width="150" height="120"></img></td>
+    <td><img src="figs/social_distance.gif" width="150" height="120"></img></td>
   </tr>
 </table>
 
