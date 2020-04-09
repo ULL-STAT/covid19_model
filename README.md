@@ -23,6 +23,7 @@ Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemá
     <td><img src="figs/social_distance.gif" width="150" height="120"></img></td>
   </tr>
 </table>
+Featured Lottie Animation by Vijay Verma, Dmytro Rohoznyi and Chris Gannon
 
 ## Execution quickstart
 
