@@ -6,21 +6,21 @@ Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemá
 
 <table style="width:100%;"">
   <tr>    
-    <td style="width:15%;"><img src="https://drive.google.com/uc?export=view&id=1BurycRWMMEKk16pav5GrwHFvnuIfWyur" ></img>
+    <td style="width:15%;"><img src="lottie_files/wash_hands.gif" ></img>
     </td>
     <td style="width:15%;"></td>
-    <td style="width:15%;"><img src="https://drive.google.com/uc?export=view&id=1By4D84hJnSe0BtGzawR2Xd5_fdLdw0k5" ></img>
+    <td style="width:15%;"><img src="lottie_files/sanitizer.gif" ></img>
     </td>
   </tr>
   <tr>
     <td></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1C39BP_MFQwuVizjy74CcUmGAHtUKf1DB" width="420" height="320" ></img></td>
+    <td><img src="lottie_files/attack_covid19.gif" width="420" height="320" ></img></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1BtplpejOqa8nv2gftPBlisuqAN7lJSI7"></img></td>
+    <td><img src="lottie_files/wear_mask.gif"></img></td>
     <td></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1BwtnGj477wI7ERp8qAj0yqRX9BoQX4j0"></img></td>
+    <td><img src="lottie_files/social_distance.gif"></img></td>
   </tr>
 </table>
 
