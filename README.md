@@ -4,24 +4,7 @@ Jupyter R notebook for prediction modelling of Covid-19 data
 ============================================================
 Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemáticas](http://matematicas.uclm.es/cemat/es/presentacion/)
 
-<table style="width:100%;"">
-  <tr>
-    <td style="width:15%;"></td>
-    <td style="width:15%;"><img src="https://drive.google.com/uc?export=view&id=1BbWfsFFAQTyPwACau4Iq6qgZ7U1dLKsl" width="160" height="110"></img>
-  </td style="width:15%;">
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1Brcuy1vJhH2832T7BfaWuk8YNuog1B7c" width="180" height="130"></img></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="https://drive.google.com/uc?export=view&id=1BbBS-2-ap27wjW7aezlT1dvApRr2YszE" width="130" height="90"></img></td>
-    <td></td>
-    <td><img src="https://drive.google.com/uc?export=view&id=1Bo7TmM3R07cxGzafmil47c3zfVbOPJu1" width="130" height="90"></img></td>
-  </tr>
-</table>
+
 
 ## Execution quickstart
 
