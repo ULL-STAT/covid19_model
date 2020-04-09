@@ -4,12 +4,12 @@ Jupyter R notebook for prediction modelling of Covid-19 data
 ============================================================
 Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemáticas](http://matematicas.uclm.es/cemat/es/presentacion/)
 
-<table style="width:100%;"">
+<table style="width:50%;"">
   <tr>    
-    <td style="width:15%;"><img src="lottie_files/wash_hands.gif" ></img>
+    <td style="width:15%;"><img src="lottie_files/wash_hands.gif" width="150" height="120"></img>
     </td>
     <td style="width:15%;"></td>
-    <td style="width:15%;"><img src="lottie_files/sanitizer.gif" ></img>
+    <td style="width:15%;"><img src="lottie_files/sanitizer.gif" width="150" height="120"></img>
     </td>
   </tr>
   <tr>
@@ -18,9 +18,9 @@ Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemá
     <td></td>
   </tr>
   <tr>
-    <td><img src="lottie_files/wear_mask.gif"></img></td>
+    <td><img src="lottie_files/wear_mask.gif" width="150" height="120"></img></td>
     <td></td>
-    <td><img src="lottie_files/social_distance.gif"></img></td>
+    <td><img src="lottie_files/social_distance.gif" width="150" height="120"></img></td>
   </tr>
 </table>
 
