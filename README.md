@@ -6,7 +6,7 @@ Acción matemática contra el coronavirus del CEMAT [Comité Español de Matemá
 
 <table style="width:50%;"">
   <tr>    
-    <td style="width:15%;"><img src="lottie_files/wash_hands.gif" width="150" height="120"></img>
+    <td style="width:15%;"><img src="lottie_files/wash_hands.gif" width="150" height="120" style="pointer-events: none;  cursor: default;"></img>
     </td>
     <td style="width:15%;"></td>
     <td style="width:15%;"><img src="lottie_files/sanitizer.gif" width="150" height="120"></img>
